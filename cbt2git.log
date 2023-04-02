@@ -1,0 +1,8 @@
+2023-04-03 01:42:24.128286 - Initialized conversion of CBT650
+2023-04-03 01:42:24.173327 - Received CBT.V504.FILE650.PDS from FILE650.XMI 
+2023-04-03 01:42:24.176432 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE650.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:42:24.177652 - Found $$DOC.txt (text/plain) in CBT.V504.FILE650.PDS, moved to PDS/$$DOC
+2023-04-03 01:42:24.178961 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE650.PDS, moved to PDS/$$NOTE1
+2023-04-03 01:42:24.180113 - Found @FILE650.txt (text/plain) in CBT.V504.FILE650.PDS, moved to PDS/@FILE650
+2023-04-03 01:42:24.181270 - Found CSAREPTS.jcl (text/plain) in CBT.V504.FILE650.PDS, moved to PDS/CSAREPTS
+2023-04-03 01:42:24.182336 - Found VSMLIST.jcl (text/plain) in CBT.V504.FILE650.PDS, moved to PDS/VSMLIST
